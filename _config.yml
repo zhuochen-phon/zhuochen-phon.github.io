@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Zhuo Chen"
 title_separator          : "-"
 name                     : &name "Zhuo Chen"
@@ -23,7 +23,7 @@ repository               : "zhuochen-phon/zhuochen-phon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "profile1.JPG"
   name             : "Zhuo Chen"
   pronouns         : "she/her"  
   bio              : "PhD student"
