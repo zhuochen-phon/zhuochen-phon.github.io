@@ -24,13 +24,13 @@ repository               : "zhuochen-phon/zhuochen-phon.github.io"
 author:
   # Biographic information
   avatar           : "profile1.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Zhuo Chen"
+  pronouns         : "she/her"  
+  bio              : "PhD student"
+  location         : "Seoul, Korea"
+  employer         : "Hanyang University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chenzhuo0416@hanyang.ac.kr" 
 
   # Academic websites
   academia         : # URL
