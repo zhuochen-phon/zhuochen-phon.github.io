@@ -319,7 +319,81 @@
   }
 }
 
+/*
+   Dropdown nav item (merged links, e.g. Publications & Presentations)
+   ========================================================================== */
 
+.nav-dropdown {
+  position: relative;
+  display: inline-block;
+
+  summary {
+    display: block;
+    margin: 0 1rem;
+    padding: 0.5rem 0;
+    color: var(--global-masthead-link-color);
+    cursor: pointer;
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &:after {
+      content: " \25BE";
+      font-size: 0.7em;
+    }
+
+    &:hover {
+      color: var(--global-masthead-link-color-hover);
+    }
+  }
+
+  &[open] summary:after {
+    content: " \25B4";
+  }
+
+  &__menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 100;
+    margin: 0.5rem 0 0;
+    padding: 5px;
+    min-width: 190px;
+    list-style: none;
+    border: 1px solid var(--global-border-color);
+    border-radius: $border-radius;
+    background: var(--global-bg-color);
+    box-shadow: 0 0 10px rgba(#000, 0.25);
+
+    li {
+      display: block;
+      border-bottom: 1px solid var(--global-border-color);
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+
+    a {
+      display: block;
+      margin: 0;
+      padding: 0.6rem 1rem;
+      color: var(--global-masthead-link-color);
+      white-space: nowrap;
+
+      &:before {
+        display: none;
+      }
+
+      &:hover {
+        color: var(--global-masthead-link-color-hover);
+        background: var(--global-border-color);
+      }
+    }
+  }
+}
 /*
    Navigation list
    ========================================================================== */
