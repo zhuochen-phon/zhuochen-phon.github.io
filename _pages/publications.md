@@ -2,7 +2,6 @@
 layout: archive
 title: "Publications & Presentations"
 permalink: /publications/
-author_profile: true
 hide_title: true
 redirect_from:
   - /talks/
