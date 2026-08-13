@@ -140,51 +140,53 @@
    Author profile and links
    ========================================================================== */
 
+.author__profile-wrap {
+  @include breakpoint($large) {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+}
+
 .author__avatar {
   display: block;
-  width: auto;
-  height: auto;
   text-align: center;
 
-  img {
-    max-width: 190px;
-    margin: 0 auto;
-    border-radius: 50%;
-    padding: 5px;
-    border: 1px solid var(--global-border-color);
+  @include breakpoint($large) {
+    flex: 0 0 auto;
+    text-align: left;
   }
-}.author__avatar {
-  display: block;
-  width: auto;
-  height: auto;
-  text-align: center;
 
   img {
-    max-width: 190px;
+    width: 190px;
+    max-width: 100%;
+    height: auto;
     margin: 0 auto;
     border-radius: 50%;
     padding: 5px;
     border: 1px solid var(--global-border-color);
+
+    @include breakpoint($large) {
+      margin: 0;
+    }
   }
 }
 
 .author__content {
-  display: table-cell;
-  vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
+  display: block;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
   line-height: 1;
+  text-align: center;
 
   @include breakpoint($large) {
-    display: block;
-    width: 100%;
-    padding-left: 0;
-    padding-right: 0;
+    flex: 1 1 0;
+    width: auto;
+    padding-left: 15px;
+    text-align: left;
   }
 }
-
-.author__name {
-  margin: 0;
 
   @include breakpoint($large) {
     margin-top: 10px;
