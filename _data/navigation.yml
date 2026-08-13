@@ -7,13 +7,9 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-main: 
+main:
   - title: "Publications & Presentations"
-    children:
-      - title: "Publications"
-        url: /publications/
-      - title: "Presentations"
-        url: /talks/
+    url: /publications/
 
   #- title: "Teaching"
   #  url: /teaching/    
@@ -32,3 +28,4 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
+
