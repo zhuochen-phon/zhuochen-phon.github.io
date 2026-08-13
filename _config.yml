@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zhuo Chen"
+title                    : "Zhuo CHEN"
 title_separator          : "-"
-name                     : &name "Zhuo Chen 陈卓"
+name                     : &name "Zhuo CHEN 陈卓"
 description              : &description "PhD student at Hanyang University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://zhuochen-phon.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "zhuochen-phon/zhuochen-phon.github.io"
 author:
   # Biographic information
   avatar           : "profile11.jpg"
-  name             : "Zhuo Chen"
+  name             : "Zhuo CHEN"
   pronouns         : "she/her"  
   bio              : "PhD student"
   location         : "Seoul, Korea"
