@@ -188,6 +188,9 @@
   }
 }
 
+.author__name {
+  margin: 0;
+
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -225,21 +228,21 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
-  vertical-align: middle;
+  display: block;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
   cursor: pointer;
+  text-align: center;
+
+  @include breakpoint($large) {
+    flex-basis: 100%;
+    text-align: left;
+  }
 
   li:last-child {
     a {
       margin-bottom: 0;
     }
-  }
-
-  @include breakpoint($large) {
-    display: block;
   }
 
   button {
