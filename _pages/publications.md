@@ -12,7 +12,7 @@ redirect_from:
 
 (Under review)
 
-- **Chen, Zhuo** & Sang-Im Lee-Kim. Selection and implementation of socially motivated phonetic variants: The case of Mandarin sibilants.
+- **Chen, Zhuo** & [Sang-Im Lee-Kim](https://sites.google.com/site/sangimleekim/about?authuser=0). Selection and implementation of socially motivated phonetic variants: The case of Mandarin sibilants.
 
 
 ## Presentations
