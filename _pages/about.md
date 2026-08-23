@@ -19,18 +19,18 @@ My research focuses on phonetic variation and how it is shaped by social and lin
 
 ### Publications
 
-(Under review)
+**2026**
 
-- **Chen, Zhuo** & [Sang-Im Lee-Kim](https://sites.google.com/site/sangimleekim/about?authuser=0). Selection and implementation of socially motivated phonetic variants: The case of Mandarin sibilants.
+- **Chen, Zhuo** & [Sang-Im Lee-Kim](https://sites.google.com/site/sangimleekim/about?authuser=0). Selection and implementation of socially motivated phonetic variants: The case of Mandarin sibilants. *Journal of Phonetics*. [(paper)](/files/2026_Chen_LeeKim_JP.pdf) [(poster)](/files/2026_Chen_LeeKim_labphon20_poster.pdf)
 
 
 ### Presentations
 
 **2026**
 
-- **Chen, Zhuo** & [Sang-Im Lee-Kim](https://sites.google.com/site/sangimleekim/about?authuser=0). Sibilant fronting in Mandarin: An interaction between social and phonological factors. Poster presented at the 20th Laboratory Phonology Conference **(LabPhon 20)**. June, 2026. Montréal, Canada.
+- **Chen, Zhuo** & [Sang-Im Lee-Kim](https://sites.google.com/site/sangimleekim/about?authuser=0). Sibilant fronting in Mandarin: An interaction between social and phonological factors. Poster presented at the 20th Laboratory Phonology Conference **(LabPhon 20)**. June, 2026. Montréal, Canada. [(poster)](/files/2026_Chen_LeeKim_labphon20_poster.pdf)
 
-- **Chen, Zhuo**, [Sang-Im Lee-Kim](https://sites.google.com/site/sangimleekim/about?authuser=0), & [Taehong Cho](https://tcho.hanyang.ac.kr/home). Prosodic strengthening in Mandarin sibilants: Cue-selective contrast enhancement. Poster presented at the Hanyang International Symposium on Phonetics and Cognitive Sciences of Language **(HISPhonCog IV)**. May, 2026. Seoul, Korea. [(abstract)](https://site.hanyang.ac.kr/documents/10980062/577907791/105.pdf)
+- **Chen, Zhuo**, [Sang-Im Lee-Kim](https://sites.google.com/site/sangimleekim/about?authuser=0), & [Taehong Cho](https://tcho.hanyang.ac.kr/home). Prosodic strengthening in Mandarin sibilants: Cue-selective contrast enhancement. Poster presented at the Hanyang International Symposium on Phonetics and Cognitive Sciences of Language **(HISPhonCog IV)**. May, 2026. Seoul, Korea. [(abstract)](https://site.hanyang.ac.kr/documents/10980062/577907791/105.pdf) [(poster)](/files/2026_HISPhonCog_poster_chen-leekim-cho.pdf)
 
 
 **2025**
