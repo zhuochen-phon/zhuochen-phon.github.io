@@ -14,17 +14,15 @@ My name is Zhuo CHEN (/tʂwo tʂʰən/; 陈卓). I am a Ph.D. student in the Dep
 
 My research focuses on phonetic variation and how it is shaped by social and linguistic factors, with a particular interest in Mandarin sibilants.
 
-## Publications & Presentations
+## Publications
 {: #publications}
-
-### Publications
 
 **2026**
 
 - **Chen, Zhuo** & [Sang-Im Lee-Kim](https://sites.google.com/site/sangimleekim/about?authuser=0). Selection and implementation of socially motivated phonetic variants: The case of Mandarin sibilants. *Journal of Phonetics*. [(paper)](/files/2026_Chen_LeeKim_JP.pdf) [(poster)](/files/2026_Chen_LeeKim_labphon20_poster.pdf)
 
 
-### Presentations
+## Presentations
 
 **2026**
 
